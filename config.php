@@ -77,7 +77,7 @@ require_once("easyConfig.php");
 	
 	}
 */
-$dsn = 'mysql://cgriff:hemorroida@localhost/api/';
+$dsn = 'mysql://root:1234@localhost/api/';
 
 /*
 	Allow only access from a list of clients (OPTIONAL)	
